@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-/* Write a list collection, a queue collection, a set collection, and a tree collection.
+/* Write a list collection, a queue collection, a set collection, a tree collection and a map collection.
  * Display the list, queue, set and tree collections
  */
 public class Collections {
